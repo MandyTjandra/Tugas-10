@@ -4,25 +4,29 @@ Ini adalah proyek aplikasi manajemen inventaris sederhana yang menerapkan sistem
 
 Aplikasi ini mendemonstrasikan bagaimana membatasi akses fitur berdasarkan peran pengguna (Admin, Pegawai, dan Pengurus) menggunakan Session PHP.
 
-Untuk mengakses web (jika sudah di-hosting), silahkan menggunakan link berikut: [Link Website](www.google.com)
+Untuk mengakses web (jika sudah di-hosting), silahkan menggunakan link berikut: [Link Website](https://tugas10.infinityfree.me/)
 
 -----
 
 ## 📸 Tangkapan Layar (Screenshots)
 
 ### 1\. Halaman Login
+<img width="1919" height="816" alt="image" src="https://github.com/user-attachments/assets/d2164dcd-8706-49f3-bcaa-8bc242ff9819" />
 
 *Halaman utama (`index.php`) untuk autentikasi pengguna.*
 
 ### 2\. Dashboard Admin (Manajemen User)
+<img width="1919" height="818" alt="image" src="https://github.com/user-attachments/assets/1372ca70-ea01-4229-b9d2-03148d9a600d" />
 
 *Halaman khusus Admin untuk melihat dan menambah user baru.*
 
 ### 3\. Dashboard Pegawai (CRUD Barang)
+<img width="1919" height="815" alt="image" src="https://github.com/user-attachments/assets/9c4db457-c67b-41b1-a413-53a00b6dcf7d" />
 
 *Halaman Pegawai untuk melakukan input, edit, dan hapus data barang.*
 
 ### 4\. Dashboard Pengurus (Laporan Stok)
+<img width="1919" height="819" alt="image" src="https://github.com/user-attachments/assets/0c2abc92-4797-4657-b5c7-49afa788d4ad" />
 
 *Halaman Pengurus yang bersifat Read-Only untuk melihat laporan dan total aset.*
 
