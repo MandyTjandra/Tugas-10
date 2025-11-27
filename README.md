@@ -4,7 +4,7 @@ Ini adalah proyek aplikasi manajemen inventaris sederhana yang menerapkan sistem
 
 Aplikasi ini mendemonstrasikan bagaimana membatasi akses fitur berdasarkan peran pengguna (Admin, Pegawai, dan Pengurus) menggunakan Session PHP.
 
-Untuk mengakses web (jika sudah di-hosting), silahkan menggunakan link berikut: [Link Website Anda](www.google.com)
+Untuk mengakses web (jika sudah di-hosting), silahkan menggunakan link berikut: [Link Website](www.google.com)
 
 -----
 
